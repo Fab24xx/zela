@@ -32,7 +32,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/fab24xx.github.io\/zela\/spielezelt.json"
+                 "value":"\/zela\/spielezelt.json"
                 }],
          "type":"tilelayer",
          "visible":true,
