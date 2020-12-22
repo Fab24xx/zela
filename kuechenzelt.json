@@ -49,7 +49,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/zela\/map.json#kuecheentry"
+                 "value":"\/zela\/map.json#eingangauskueche"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -67,7 +67,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/zela\/map.json#kuechehintenentry"
+                 "value":"\/zela\/map.json#eingangauskuechehinten"
                 }],
          "type":"tilelayer",
          "visible":true,
