@@ -43,7 +43,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/zela\/map.json#spielezeltentry"
+                 "value":"\/zela\/map.json#eingangausspielezelt"
                 }],
          "type":"tilelayer",
          "visible":true,
