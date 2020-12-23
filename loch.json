@@ -61,7 +61,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.amazon.ca\/The-Manly-Art-of-Knitting\/dp\/3518467123\/"
+                 "value":"https:\/\/amazon.ca\/The-Manly-Art-of-Knitting\/dp\/3518467123\/"
                 }],
          "type":"tilelayer",
          "visible":true,
